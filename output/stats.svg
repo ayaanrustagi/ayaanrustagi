@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="391" height="181" viewBox="0 0 391 181" font-family="'JetBrains Mono','DejaVu Sans Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="13">
+  <rect width="391" height="181" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <text x="24" y="37" xml:space="preserve"><tspan fill="#30363d">┌[ </tspan><tspan fill="#79c0ff" font-weight="700">ayaan</tspan><tspan fill="#1f6feb">@</tspan><tspan fill="#58a6ff" font-weight="700">github</tspan><tspan fill="#30363d"> ]─[ </tspan><tspan fill="#a5d6ff">~/stats</tspan><tspan fill="#30363d"> ]</tspan></text>
+  <text x="24" y="57" xml:space="preserve"><tspan fill="#1f6feb">└&gt; </tspan><tspan fill="#79c0ff" font-weight="700">./stats.sh</tspan></text>
+  <line x1="24" y1="73" x2="367" y2="73" stroke="#30363d" stroke-width="1"/>
+  <text x="24" y="93" xml:space="preserve"><tspan fill="#58a6ff">commits</tspan><tspan fill="#30363d"> .............................. </tspan><tspan fill="#c9d1d9">1,697</tspan></text>
+  <text x="24" y="113" xml:space="preserve"><tspan fill="#58a6ff">repositories</tspan><tspan fill="#30363d"> ............................ </tspan><tspan fill="#c9d1d9">29</tspan></text>
+  <text x="24" y="133" xml:space="preserve"><tspan fill="#58a6ff">active in</tspan><tspan fill="#30363d"> .......................... </tspan><tspan fill="#c9d1d9">7 repos</tspan></text>
+  <text x="24" y="153" xml:space="preserve"><tspan fill="#58a6ff">followers</tspan><tspan fill="#30363d"> ................................ </tspan><tspan fill="#c9d1d9">6</tspan></text>
+</svg>

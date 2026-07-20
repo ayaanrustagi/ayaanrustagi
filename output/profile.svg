@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="638" height="741" viewBox="0 0 638 741" font-family="'JetBrains Mono','DejaVu Sans Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="15">
+  <rect width="638" height="741" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    <text x="40" y="55" xml:space="preserve"><tspan fill="#30363d">┌[ </tspan><tspan fill="#79c0ff" font-weight="700">ayaan</tspan><tspan fill="#1f6feb">@</tspan><tspan fill="#58a6ff" font-weight="700">github</tspan><tspan fill="#30363d"> ]─[ </tspan><tspan fill="#a5d6ff">~/dev</tspan><tspan fill="#30363d"> ]</tspan></text>
+  <text x="40" y="77" xml:space="preserve"><tspan fill="#1f6feb">└&gt; </tspan><tspan fill="#79c0ff" font-weight="700">./profile.sh</tspan></text>
+  <line x1="40" y1="95" x2="598" y2="95" stroke="#30363d" stroke-width="1"/>
+  <text x="40" y="123" xml:space="preserve" font-size="15"><tspan fill="#58a6ff"> ████   ██  ██   ████    ████   ██  ██</tspan></text>
+  <text x="40" y="142" xml:space="preserve" font-size="15"><tspan fill="#58a6ff">██  ██   ████   ██  ██  ██  ██  ███ ██</tspan></text>
+  <text x="40" y="161" xml:space="preserve" font-size="15"><tspan fill="#58a6ff">██████    ██    ██████  ██████  ██████</tspan></text>
+  <text x="40" y="180" xml:space="preserve" font-size="15"><tspan fill="#58a6ff">██  ██    ██    ██  ██  ██  ██  ██ ███</tspan></text>
+  <text x="40" y="199" xml:space="preserve" font-size="15"><tspan fill="#58a6ff">██  ██    ██    ██  ██  ██  ██  ██  ██</tspan></text>
+  <text x="40" y="238" xml:space="preserve"><tspan fill="#1f6feb">[ </tspan><tspan fill="#79c0ff" font-weight="700">system</tspan><tspan fill="#1f6feb"> ]</tspan></text>
+  <text x="40" y="260" xml:space="preserve"><tspan fill="#58a6ff">name</tspan><tspan fill="#30363d"> ........................................... </tspan><tspan fill="#c9d1d9">Ayaan Rustagi</tspan></text>
+  <text x="40" y="282" xml:space="preserve"><tspan fill="#58a6ff">role</tspan><tspan fill="#30363d"> .................. </tspan><tspan fill="#c9d1d9">Research Assistant · Builder · Student</tspan></text>
+  <text x="40" y="304" xml:space="preserve"><tspan fill="#58a6ff">school</tspan><tspan fill="#30363d"> ........................ </tspan><tspan fill="#c9d1d9">Rouse HS, Leander / Austin, TX</tspan></text>
+  <text x="40" y="326" xml:space="preserve"><tspan fill="#58a6ff">labs</tspan><tspan fill="#30363d"> ............... </tspan><tspan fill="#c9d1d9">Boston University · University of Alabama</tspan></text>
+  <text x="40" y="358" xml:space="preserve"><tspan fill="#1f6feb">[ </tspan><tspan fill="#79c0ff" font-weight="700">dev</tspan><tspan fill="#1f6feb"> ]</tspan></text>
+  <text x="40" y="380" xml:space="preserve"><tspan fill="#58a6ff">langs</tspan><tspan fill="#30363d"> ............... </tspan><tspan fill="#c9d1d9">Python · TypeScript · JavaScript · Swift</tspan></text>
+  <text x="40" y="402" xml:space="preserve"><tspan fill="#58a6ff">frontend</tspan><tspan fill="#30363d"> ............ </tspan><tspan fill="#c9d1d9">React · Next.js · Vite · Tailwind · GSAP</tspan></text>
+  <text x="40" y="424" xml:space="preserve"><tspan fill="#58a6ff">backend</tspan><tspan fill="#30363d"> ................. </tspan><tspan fill="#c9d1d9">Node · MongoDB · Supabase · Firebase</tspan></text>
+  <text x="40" y="446" xml:space="preserve"><tspan fill="#58a6ff">hardware</tspan><tspan fill="#30363d"> ........... </tspan><tspan fill="#c9d1d9">micro:bit · ESP32 · Arduino · MicroPython</tspan></text>
+  <text x="40" y="468" xml:space="preserve"><tspan fill="#58a6ff">research</tspan><tspan fill="#30363d"> ................. </tspan><tspan fill="#c9d1d9">Brian2 · NumPy · SciPy · Matplotlib</tspan></text>
+  <text x="40" y="490" xml:space="preserve"><tspan fill="#58a6ff">shipping</tspan><tspan fill="#30363d"> .......................... </tspan><tspan fill="#c9d1d9">Chrome Extensions · Vercel</tspan></text>
+  <text x="40" y="522" xml:space="preserve"><tspan fill="#1f6feb">[ </tspan><tspan fill="#79c0ff" font-weight="700">research</tspan><tspan fill="#1f6feb"> ]</tspan></text>
+  <text x="40" y="544" xml:space="preserve"><tspan fill="#58a6ff">lab</tspan><tspan fill="#30363d"> ................ </tspan><tspan fill="#c9d1d9">Boston University · University of Alabama</tspan></text>
+  <text x="40" y="566" xml:space="preserve"><tspan fill="#58a6ff">focus</tspan><tspan fill="#30363d"> ......... </tspan><tspan fill="#c9d1d9">computational neuroscience · neurodegeneration</tspan></text>
+  <text x="40" y="588" xml:space="preserve"><tspan fill="#58a6ff">status</tspan><tspan fill="#30363d"> ....................... </tspan><tspan fill="#c9d1d9">in progress, details on request</tspan></text>
+  <text x="40" y="620" xml:space="preserve"><tspan fill="#1f6feb">[ </tspan><tspan fill="#79c0ff" font-weight="700">contact</tspan><tspan fill="#1f6feb"> ]</tspan></text>
+  <text x="40" y="642" xml:space="preserve"><tspan fill="#58a6ff">mail</tspan><tspan fill="#30363d"> ............................. </tspan><tspan fill="#c9d1d9">ayaan.rustagi2010@gmail.com</tspan></text>
+  <text x="40" y="664" xml:space="preserve"><tspan fill="#58a6ff">web</tspan><tspan fill="#30363d"> .......................... </tspan><tspan fill="#c9d1d9">https://ayaanrustagi.vercel.app</tspan></text>
+  <text x="40" y="686" xml:space="preserve"><tspan fill="#58a6ff">linkedin</tspan><tspan fill="#30363d"> .......................... </tspan><tspan fill="#c9d1d9">in/ayaan-rustagi-66026b35a</tspan></text>
+</svg>
