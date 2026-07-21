@@ -75,15 +75,6 @@ MERN lost and found platform. Two-tier visual search: on-device d-hash matching,
 <tr>
 <td width="50%" valign="top">
 
-### [Caloric AI](https://hosacalai.vercel.app/)
-**Health tech · HOSA**
-AI caloric tracking and health analysis, built for HOSA competition.
-
-`AI` `Health` `React`
-
-</td>
-<td width="50%" valign="top">
-
 ### [Healthy Hygiene](https://thhp.vercel.app/)
 **Impact · Marketing Director**
 Nonprofit hygiene initiative. Ran the site and marketing; raised $1.5k+ for essentials.
